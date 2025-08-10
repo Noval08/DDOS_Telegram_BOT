@@ -15,7 +15,7 @@ import concurrent.futures
 
 
 #Telegram token
-token = os.getenv('TELEGRAM_TOKEN')
+token = os.getenv('7563204826:AAGfECdl3zy0PP4pph1_UC6kxF1BI7IVCh8')
 bot_number = os.getenv('NUM')
 updater = Updater(token,use_context=True)
 s = 360
